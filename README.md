@@ -7,6 +7,15 @@
 
 This project implements several Federated Learning algorithms (FedAvg, FedProx) and Split Learning (SFMed), supporting multi-site medical image classification tasks. It is built on PyTorch and designed for datasets such as HAM10000 and ODIR. The framework enables multi-client collaborative training, adaptive aggregation, label smoothing, rich evaluation metrics, and feature visualization.
 
+### Framework and Results
+![Figure 1](fig/fig1.png)
+![Figure 2](fig/fig2.png)
+![Figure 3](fig/fig3.png)
+![Table 1](fig/table1.png)
+![Table 2](fig/table2.png)
+![Table 3](fig/table3.png)
+
+
 ## 📁 Directory Structure
 
 ```
